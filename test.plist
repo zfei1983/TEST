@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://mttex.io/download/MT4Phone.ipa</string>
+					<string>http://www.mtsoftware.hk/1/MT4Phone.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://mttex.io/download/icon-57.png</string>
+					<string>http://www.mtsoftware.hk/1/icon-58.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://mttex.io/download/icon-512.png</string>
+					<string>http://www.mtsoftware.hk/1/icon-1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
