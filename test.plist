@@ -16,14 +16,14 @@
             </array>
             <key>metadata</key>
             <dict>
-                <key>bundle-identifier</key>
-                <string>请填上你的开发者证书用户名</string>
+                <key>hk.PhoneMT4</key>
+                <string>wealthblooming@hotmail.com</string>
                 <key>bundle-version</key>
-                <string>版本</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>请填上标题</string>
+                <string>PhoneMT4</string>
             </dict>
         </dict>
     </array>
