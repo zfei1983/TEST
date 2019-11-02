@@ -16,8 +16,8 @@
             </array>
             <key>metadata</key>
             <dict>
-                <key>hk.PhoneMT4</key>
-                <string>wealthblooming@hotmail.com</string>
+                <key>bundle-identifier</key>
+                <string>hk.PhoneMT4</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
